@@ -47,4 +47,4 @@ See [DISCLAIMER.md](DISCLAIMER.md) before usage.
 ---
 
 ## 📌 Author
-Made by **Your Name** ✨ ([@yourgithub](https://github.com/USERNAME))
+Made by **Darshan** ✨ ([@Darshan060224](https://github.com/Darshan060224))
