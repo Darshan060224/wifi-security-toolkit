@@ -1,0 +1,6 @@
+logs/*
+handshakes/*
+wordlists/*
+*.cap
+*.pcap
+*.hccapx
